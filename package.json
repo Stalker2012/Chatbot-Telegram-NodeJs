@@ -1,0 +1,23 @@
+{
+  "name": "Chatbot-Telegram-NodeJs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Stalker2012/Chatbot-Telegram-NodeJs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Stalker2012/Chatbot-Telegram-NodeJs/issues"
+  },
+  "homepage": "https://github.com/Stalker2012/Chatbot-Telegram-NodeJs#readme",
+  "dependencies": {
+    "telegraf": "^3.38.0"
+  }
+}
